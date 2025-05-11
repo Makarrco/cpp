@@ -1,0 +1,7 @@
+# Ignore executable and object files
+*.exe
+*.o
+*.obj
+
+# Ignore backup files
+*~
